@@ -792,7 +792,9 @@ button.form-button:hover {
         padding: 0 5px 0 0;
         font-size: 16px;
     }
-
+    span.span-line-topbar {
+        margin: 0 6px 0 6px;
+    }
     .left-topbar {
         justify-content: center;
     }
@@ -803,7 +805,7 @@ button.form-button:hover {
 
     .topbar-social-icon a i {
         font-size: 14px;
-        padding: 4px 7px 5px 7px;
+        padding: 6px 7px 6px 7px;
     }
  
     /* hero banner */
@@ -1008,6 +1010,10 @@ button.form-button:hover {
     .map-section-heading h4 {
         width: 100%;
         margin: 5px 0;
+    }
+    .map-section-content {
+        margin-top: -165px;
+    
     }
     iframe {
         width: 100%;
